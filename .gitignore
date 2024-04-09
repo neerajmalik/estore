@@ -1,0 +1,27 @@
+Gemfile.lock
+node_modules/
+/node_modules
+*.zip
+build-product/
+.DS_Store
+dist/
+package-lock.json
+
+
+
+# generated types
+.astro/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# jetbrains setting folder
+.idea/
